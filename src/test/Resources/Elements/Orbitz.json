@@ -1,0 +1,25 @@
+{
+  "tabs column": [
+    "#tab-flight-tab-hp",
+    "#tab-hotel-tab-hp",
+    "#tab-package-tab-hp",
+    "#tab-car-tab-hp",
+    "#tab-activity-tab-hp",
+    "#tab-cruise-tab-hp"
+  ],
+  "search": [
+    "#hotel-destination-hp-hotel",
+    "#hotel-checkin-hp-hotel",
+    "#hotel-checkout-hp-hotel",
+    "#hotel-rooms-hp-hotel",
+    "#hotel-1-adults-hp-hotel",
+    "#hotel-1-children-hp-hotel",
+    "#hotel-1-age-select-1-hp-hotel",
+    ".btn-primary btn-action gcw-submit "
+  ],
+  "searchPage": [
+    "#inpHotelNameMirror",
+    "#hotelNameGoBtn",
+    "#modalCloseButton"
+  ]
+}
